@@ -1,5 +1,6 @@
 Locales['cs'] = {
 	['cash'] = 'Hotovost',
-	['player_nearby'] = 'Zvolený hrác jiz není u tebe!',
-	['players_nearby'] = 'Poblíz tebe není zádný hrác!'
+	['black_money'] = 'Špinavé peníze',
+	['player_nearby'] = 'Zvolený hráč již není u tebe!',
+	['players_nearby'] = 'Poblíž tebe není žádný hrác!'
 }
